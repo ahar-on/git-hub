@@ -93,7 +93,7 @@
 		
 	</main>
 	<footer class="footeiro">
-		<div>Junte-se agora ao melhor site nacional de gerenciamento de rifas!</div>
+		<div>Junte-se agora ao melhor site nacional de gerenciamento de rifas!  </div>
 	</footer>
 </body>
 </html>
