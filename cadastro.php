@@ -57,7 +57,7 @@
 	</main>
 
 	<footer>
-		<div>Junte-se agora ao melhor site nacional de gerenciamento de rifas!</div>
+		<div>Junte-se agora ao melhor site nacional de gerenciamento de rifas! </div>
 	</footer>
 	<script type="text/javascript" src="js/cadastro.js"></script>
 </body>
